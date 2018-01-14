@@ -10,7 +10,7 @@
 	* ability (or willingness to learn) to program in Python 3 
 
 * **Office Hours**: 
-	* Dan: MW 10-11:30am in Fleming 417 and by appointment
+	* Dan: TBD
 	* Sofie (CA): TBD 
 	* Kyle (CA): TBD
 
