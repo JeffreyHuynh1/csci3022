@@ -32,12 +32,12 @@
 |8      |03.5- |	       |          |Inference and CI Intro	|          |hw4 posted|
 |       |03.7- |	       |          |Two-Sample CIs |          |	|
 |       |03.9  | *	       |          |CIs in the Wild |          |	|
-|9      |03.12 |	       |          |Bootstrap Theory |          |	|
-|       |03.14 | *	       |          |Bootstrap Practice |          |	|
-|       |03.16 |	       |          |Hypothesis Testing Intro|          |hw4 due|
-|10     |03.19-|	       |          |p-Values|          |hw5 posted|
-|       |03.21-| *	       |          |Practical HT & p|          |	|
-|       |03.23-|	       |          |Small-sample HT|          |	|
+|9      |03.12 |	       |          |Hypothesis Testing Intro |          |	|
+|       |03.14 | *	       |          |p-Values|          |	|
+|       |03.16 |	       |          |Practical HT & p|          |hw4 due|
+|10     |03.19-|	       |          |Small-sample HT|          |hw5 posted|
+|       |03.21-| *	       |          |Bootstrap Theory |          |	|
+|       |03.23-|	       |          |Bootstrap Practice|          |	|
 |11     |03.26 |	       |          |**SPRING BREAK - NO CLASS**|          |	|
 |       |03.28 |	       |          |**SPRING BREAK - NO CLASS**|          |	|
 |       |03.30 |	       |          |**SPRING BREAK - NO CLASS**|          |	|
