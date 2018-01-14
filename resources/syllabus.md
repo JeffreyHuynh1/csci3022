@@ -96,7 +96,7 @@ Unless adjustments are necessary, letter grades will be assigned using the stand
 |     D- |   60-62     |
 |     F  |   00-59     |
 
-Finally, regardless of non-exam scores, an average (unweighted) of 50% on the two exams is required to pass the course with a C- or better.
+Finally, regardless of non-exam scores, an average of 55% on the two exams is required to pass the course with a C- or better.
 
 ### Collaboration Policy 
 
