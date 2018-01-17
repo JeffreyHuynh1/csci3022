@@ -10,9 +10,9 @@
 	* ability (or willingness to learn) to program in Python 3 
 
 * **Office Hours**: 
-	* Dan: TBD
-	* Sofie (CA): TBD 
-	* Kyle (CA): TBD
+	* Dan: See [Piazza](https://piazza.com/colorado/spring2018/csci3022/home)
+	* Sofie (CA): See [Piazza](https://piazza.com/colorado/spring2018/csci3022/home)
+	* Kyle (CA): See [Piazza](https://piazza.com/colorado/spring2018/csci3022/home)
 
 ### Course Description 
 
