@@ -17,7 +17,7 @@
 |    |01.31 | [nb4](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb4_stochastic_simulation.ipynb) [nb5](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb5_condl_total_prob.ipynb)	    |6          |**Stochastic Simulation**				 |       |	|
 |    |02.2  |	    |3          |Bayes' Rule and Intro to PDFs 			 | [lec6](https://github.com/dblarremore/csci3022/blob/master/slides/lec6.pdf)      |hw1 due|
 |4   |02.5  |	    |4          |Discrete RVs, PMFs, CMFs 				 | [lec7](https://github.com/dblarremore/csci3022/blob/master/slides/lec7.pdf)      |hw2 posted|
-|    |02.7  |	    |4,5        |Discrete RVs Strike Back				 |       |	|
+|    |02.7  |	    |4,5        |Discrete RVs Strike Back				 | [lec8](https://github.com/dblarremore/csci3022/blob/master/slides/lec8.pdf)      |	|
 |    |02.9  | 	    |           |**Return of the Discrete RVs**			 |       |	|
 |5   |02.12 |	    |5          |Continuous RVs Awaken, PDFs, CDFs		 |       |	|
 |    |2.14  | 	    |           |**The Last Continuous RVs**			 |       |	|
