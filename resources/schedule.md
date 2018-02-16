@@ -20,7 +20,7 @@
 |    |02.7  |	    |4,5        |Discrete RVs Strike Back				 | [lec8](https://github.com/dblarremore/csci3022/blob/master/slides/lec8.pdf)      |	|
 |    |02.9  | [nb6](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb6_bayes_LTP.ipynb) [nb7](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb7_discrete_rvs.ipynb) [nb8](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb8_more_discrete_rvs.ipynb)	    |           |**Return of the Discrete RVs**			 |       |	|
 |5   |02.12 |	    |5          |Continuous RVs Awaken, PDFs, CDFs		 | [lec9](https://github.com/dblarremore/csci3022/blob/master/slides/lec9.pdf)      |	|
-|    |2.14  | 	    |           |**The Last Continuous RVs**			 |       |	|
+|    |2.14  | [nb9](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb9_continuousRVs.ipynb)	    |           |**The Last Continuous RVs**			 | [bonus](https://github.com/dblarremore/csci3022/blob/master/slides/bonus.pdf)      |	|
 |    |02.16 |	    |7          |Expectation 							 |       |hw2 due|
 |6   |02.19 |	    |7          |Variance								 |       |hw3 posted|
 |    |02.21 | 	    |           |**More Expectation & Variance** 		 |       |	|
