@@ -22,7 +22,7 @@
 |5   |02.12 |	    |5          |Continuous RVs Awaken, PDFs, CDFs		 | [lec9](https://github.com/dblarremore/csci3022/blob/master/slides/lec9.pdf)      |	|
 |    |2.14  | [nb9](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb9_continuousRVs.ipynb)	    |           |**The Last Continuous RVs**			 | [bonus](https://github.com/dblarremore/csci3022/blob/master/slides/bonus.pdf)      |	|
 |    |02.16 |	    |7          |Expectation 							 | [lec10](https://github.com/dblarremore/csci3022/blob/master/slides/lec10.pdf)      |hw2 due|
-|6   |02.19 |	    |7          |Variance								 |       |hw3 posted|
+|6   |02.19 |	    |7          |Variance								 | [lec11](https://github.com/dblarremore/csci3022/blob/master/slides/lec11.pdf)      |hw3 posted|
 |    |02.21 | 	    |           |**More Expectation & Variance** 		 |       |	|
 |    |02.23 |	    |5.5        |The Normal Distribution 				 |       		 |	|
 |7   |02.26 |	    |           |**MIDTERM EXAM REVIEW** 				 |       		 |	|
