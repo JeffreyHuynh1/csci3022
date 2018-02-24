@@ -24,7 +24,7 @@
 |    |02.16 |	    |7          |Expectation 							 | [lec10](https://github.com/dblarremore/csci3022/blob/master/slides/lec10.pdf)      |hw2 due|
 |6   |02.19 |	    |7          |Variance								 | [lec11](https://github.com/dblarremore/csci3022/blob/master/slides/lec11.pdf)      |[hw3](https://github.com/dblarremore/csci3022/tree/master/homework/homework3) posted|
 |    |02.21 | [nb10](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb10_expectation.ipynb) [nb11](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb11_exp_and_var.ipynb)	    |           |**More Expectation & Variance** 		 |       |	|
-|    |02.23 |	    |5.5        |The Normal Distribution 				 |       		 |	|
+|    |02.23 |	    |5.5        |The Normal Distribution 				 | [lec12](https://github.com/dblarremore/csci3022/blob/master/slides/lec12.pdf)      		 |	|
 |7   |02.26 |	    |           |**MIDTERM EXAM REVIEW** 				 |       		 |	|
 |    |02.28 |	    |14         |The Central Limit Theorems 			 |       |	|
 |    |02.28 |	    |           |**MIDTERM EXAM (PM)** 					 |       |	|
