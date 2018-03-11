@@ -25,13 +25,13 @@
 |6   |02.19 |	    |7          |Variance								 | [lec11](https://github.com/dblarremore/csci3022/blob/master/slides/lec11.pdf)      |[hw3](https://github.com/dblarremore/csci3022/tree/master/homework/homework3) posted|
 |    |02.21 | [nb10](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb10_expectation.ipynb) [nb11](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb11_exp_and_var.ipynb)	    |           |**More Expectation & Variance** 		 |       |	|
 |    |02.23 |	    |5.5        |The Normal Distribution 				 | [lec12](https://github.com/dblarremore/csci3022/blob/master/slides/lec12.pdf)      		 |	|
-|7   |02.26 |	    |           |**MIDTERM EXAM REVIEW** 				 |       		 |	|
-|    |02.28 |	    |14         |The Central Limit Theorems 			 |       |	|
+|7   |02.26 |	    |           |**MIDTERM EXAM REVIEW** 				 | [review notes](https://github.com/dblarremore/csci3022/blob/master/slides/midterm_review.pdf)      		 |	|
+|    |02.28 |	    |14         |The Central Limit Theorems 			 | [lec13](https://github.com/dblarremore/csci3022/blob/master/slides/lec13.pdf)       |	|
 |    |02.28 |	    |           |**MIDTERM EXAM (PM)** 					 |       |	|
-|    |03.2  | 	    |           |**The Central Limit Theorem and You**	 |       |hw3 due|
-|8   |3.5	|	    |23,24      |Inference and CI Intro					 |       |hw4 posted|
-|    |3.7	|	    |23,24      |Two-Sample CIs 						 |       |	|
-|    |03.9  | 	    |           |**CIs in the Wild** 					 |       |	|
+|    |03.2  | [nb12](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb12_normal.ipynb) [nb13](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb13_centrallimitthm.ipynb) |           |**The Central Limit Theorem and You**	 |       |hw3 due|
+|8   |3.5	|	    |23,24      |Inference and CI Intro					 | [lec14](https://github.com/dblarremore/csci3022/blob/master/slides/lec14.pdf)      |[hw4](https://github.com/dblarremore/csci3022/tree/master/homework/homework4) posted|
+|    |3.7	|	    |23,24      |Two-Sample CIs 						 | [lec15](https://github.com/dblarremore/csci3022/blob/master/slides/lec15.pdf)      |	|
+|    |03.9  | [nb14](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb14_confidenceintervals.ipynb)	    |           |**CIs in the Wild** 					 | [bonus](https://github.com/dblarremore/csci3022/blob/master/slides/lec15_bonus.pdf)      |	|
 |9   |03.12 |	    |25,26      |Hypothesis Testing Intro 				 |       |	|
 |    |03.14 | 	    |25,26      |p-Values 								 |       |	|
 |    |03.16 |	    |           |**Practical HT & p**					 |       |hw4 due|
