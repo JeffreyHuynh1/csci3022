@@ -32,7 +32,7 @@
 |8   |3.5	|	    |23,24      |Inference and CI Intro					 | [lec14](https://github.com/dblarremore/csci3022/blob/master/slides/lec14.pdf)      |[hw4](https://github.com/dblarremore/csci3022/tree/master/homework/homework4) posted|
 |    |3.7	|	    |23,24      |Two-Sample CIs 						 | [lec15](https://github.com/dblarremore/csci3022/blob/master/slides/lec15.pdf)      |	|
 |    |03.9  | [nb14](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb14_confidenceintervals.ipynb)	    |           |**CIs in the Wild** 					 | [bonus](https://github.com/dblarremore/csci3022/blob/master/slides/lec15_bonus.pdf)      |	|
-|9   |03.12 |	    |25,26      |Hypothesis Testing Intro 				 |       |	|
+|9   |03.12 |	    |25,26      |Hypothesis Testing Intro 				 |  [lec16](https://github.com/dblarremore/csci3022/blob/master/slides/lec16.pdf)     |	|
 |    |03.14 | 	    |25,26      |p-Values 								 |       |	|
 |    |03.16 |	    |           |**Practical HT & p**					 |       |hw4 due|
 |10  |3.19  |	    |27         |Small-sample HT 						 |       |hw5 posted|
