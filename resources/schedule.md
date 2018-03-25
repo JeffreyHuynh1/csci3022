@@ -38,10 +38,6 @@
 |10  |3.19  |	    |27         |Small-sample HT 						 | [lec19](https://github.com/dblarremore/csci3022/blob/master/slides/lec19.pdf)      |hw5 posted|
 |    |3.21  |	    |18,23.3    | Interstate Wars 						 | [Slides](http://santafe.edu/~aaronc/slides/Clauset_2018_CSCI3022.pdf) [paper](http://advances.sciencemag.org/content/4/2/eaao3580)     |	|
 |    |3.23  |	    |           |**Python Pro Tips** 				 |       |	|
-
-[//]: # |    |3.21  |	    |18,23.3    |Bootstrap Theory 						 |       |	|
-[//]: # |    |3.23  |	    |           |**Bootstrap Practice** 				 |       |	|
-
 |11  |03.26 |	    |           |**SPRING BREAK - NO CLASS**			 |       |	|
 |    |03.28 |	    |           |**SPRING BREAK - NO CLASS**			 |       |	|
 |    |03.30 |	    |           |**SPRING BREAK - NO CLASS**			 |       |	|
