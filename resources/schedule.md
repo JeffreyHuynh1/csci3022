@@ -41,8 +41,8 @@
 |11  |03.26 |	    |           |**SPRING BREAK - NO CLASS**			 |       |	|
 |    |03.28 |	    |           |**SPRING BREAK - NO CLASS**			 |       |	|
 |    |03.30 |	    |           |**SPRING BREAK - NO CLASS**			 |       |	|
-|12  |04.2  |	    |22         |OLS/SLR Regression						 |       |	|
-|    |04.4  |	    |           |**OLS/SLR Regression**					 |       |	|
+|12  |04.2  |	    |22         |Bootstrap Intro						 | [lec20](https://github.com/dblarremore/csci3022/blob/master/slides/lec20.pdf)       |	|
+|    |04.4  |	    |22         |OLS/SLR Regression					 |       |	|
 |    |04.6  |	    |27         |Inference in SLR						 |       |hw5 due|
 |13  |4.9	|	    |ISL Ch3    |MLR 									 |       |hw6 posted|
 |    |04.11 |	    |ISL Ch3    |Inference in MLR						 |       |	|
