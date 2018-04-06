@@ -42,7 +42,7 @@
 |    |03.28 |	    |           |**SPRING BREAK - NO CLASS**			 |       |	|
 |    |03.30 |	    |           |**SPRING BREAK - NO CLASS**			 |       |	|
 |12  |04.2  |	    |           |Bootstrap Intro						 | [lec20](https://github.com/dblarremore/csci3022/blob/master/slides/lec20.pdf)       |	|
-|    |04.4  |	    | [nb20](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb20_small_n_ht.ipynb) [nb21](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb21_bootstrap.ipynb)          |**Bootstrap and Small n HT			     | [lec21](https://github.com/dblarremore/csci3022/blob/master/slides/lec21.pdf)      |	|
+|    |04.4  | [nb20](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb20_small_n_ht.ipynb) [nb21](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb21_bootstrap.ipynb) 	    |          |**Bootstrap and Small n HT			     | [lec21](https://github.com/dblarremore/csci3022/blob/master/slides/lec21.pdf)      |	|
 |    |04.6  | [nb22](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb22_regression.ipynb)	    |27         |OLS/SLR Regression 						 |       |hw5 due|
 |13  |4.9	|	    |ISL Ch3    |MLR 									 |       |hw6 posted|
 |    |04.11 |	    |ISL Ch3    |Inference in MLR						 |       |	|
