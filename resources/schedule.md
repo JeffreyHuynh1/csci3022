@@ -44,9 +44,9 @@
 |12  |04.2  |	    |           |Bootstrap Intro						 | [lec20](https://github.com/dblarremore/csci3022/blob/master/slides/lec20.pdf)       |	|
 |    |04.4  | [nb20](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb20_small_n_ht.ipynb) [nb21](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb21_bootstrap.ipynb) 	    |          |**Bootstrap and Small n HT**			     | [lec21](https://github.com/dblarremore/csci3022/blob/master/slides/lec21.pdf)      |	|
 |    |04.6  | [nb22](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb22_regression.ipynb)	    |27         |OLS/SLR Regression 						 |       |hw5 due|
-|13  |4.9	|	    |ISL Ch3    |MLR 									 |       |hw6 posted|
-|    |04.11 |	    |ISL Ch3    |Inference in MLR						 |       |	|
-|    |04.13 |	    |           |**Practical MLR** 						 |       |	|
+|13  |4.9	|	    |    		| Inference in SLR									 |       |[hw6](https://github.com/dblarremore/csci3022/tree/master/homework/homework6) posted|
+|    |04.11 |	    |ISL Ch3    |MLR and Inference in MLR						 |       |	|
+|    |04.13 |	    |ISL Ch3           |**Practical MLR** 						 |       |	|
 |14  |04.16 |	    |           |ANOVA								 	 |       |practicum posted|
 |    |04.18 |	    |           |**ANOVA** 								 |       |	|
 |    |04.20 |	    |           |Logistic Regr. & Classification         |       |hw6 due|
