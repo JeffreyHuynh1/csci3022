@@ -45,14 +45,14 @@
 |    |04.4  | [nb20](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb20_small_n_ht.ipynb) [nb21](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb21_bootstrap.ipynb) 	    |          |**Bootstrap and Small n HT**			     | [lec21](https://github.com/dblarremore/csci3022/blob/master/slides/lec21.pdf)      |	|
 |    |04.6  | [nb22](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb22_regression.ipynb)	    |27         |OLS/SLR Regression 						 |       |hw5 due|
 |13  |4.9	|	    |    		| Inference in SLR									 |       |[hw6](https://github.com/dblarremore/csci3022/tree/master/homework/homework6) posted|
-|    |04.11 |	    |ISL Ch3    |MLR and Inference in MLR						 |       |	|
-|    |04.13 |	    |ISL Ch3           |**Practical MLR** 						 |       |	|
-|14  |04.16 |	    |           |ANOVA								 	 |       |practicum posted|
-|    |04.18 |	    |           |**ANOVA** 								 |       |	|
-|    |04.20 |	    |           |Logistic Regr. & Classification         |       |hw6 due|
-|15  |04.23 |	    |           |**Logistic Regr. & Classification**     |       |	|
-|    |04.25 |	    |           |Solution Techniques for OLS & LogReg    |       |	|
-|    |04.27 | 	    |           |**Solution Techniques for OLS & LogReg**|       |	|
-|16  |04.30 |	    |           |										 |       |	|
+|    |04.11 |	    |ISL Ch3    |*Hands on inference in SLR*			|       |	|
+|    |04.13 |	    |ISL Ch3    |MLR   						 			|       |	|
+|14  |04.16 |	    |ISL Ch3    |Inference in MLR						|       |practicum posted|
+|    |04.18 |	    |           |*Hands on inference in MLR* 			|       |	|
+|    |04.20 |	    |           |ANOVA         							|       |hw6 due|
+|15  |04.23 |	    |           |**ANOVA** 							    |       |	|
+|    |04.25 |	    |           |Logistic Regr. & Classification		|       |	|
+|    |04.27 | 	    |           |**Logistic Regr. & Classification**	|       |	|
+|16  |04.30 |	    |           |Solution Techniques and SGD			|       |	|
 |    |05.2  |	    |           |**FINAL EXAM REVIEW**					 |       |practicum due|
 |X   |05.X  |	    |           |**FINAL EXAM**							 |       ||
