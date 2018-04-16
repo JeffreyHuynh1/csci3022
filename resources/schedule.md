@@ -47,7 +47,7 @@
 |13  |4.9	| 	    |    		|Inference in SLR						| [lec23](https://github.com/dblarremore/csci3022/blob/master/slides/lec23.pdf)       |[hw6](https://github.com/dblarremore/csci3022/tree/master/homework/homework6) posted|
 |    |04.11 | [nb23](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb23_SLRinference.ipynb)	    |ISL Ch3    |*Hands on inference in SLR*			|       |	|
 |    |04.13 | [nb24](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb24_MLR.ipynb)    |ISL Ch3    |MLR   						 			| [lec24](https://github.com/dblarremore/csci3022/blob/master/slides/lec24.pdf)      |	|
-|14  |04.16 |	    |ISL Ch3    |Inference in MLR						|       |practicum posted|
+|14  |04.16 |	    |ISL Ch3    |Inference in MLR						| [lec25](https://github.com/dblarremore/csci3022/blob/master/slides/lec25.pdf)      |practicum posted|
 |    |04.18 |	    |           |*Hands on inference in MLR* 			|       |	|
 |    |04.20 |	    |           |ANOVA         							|       |hw6 due|
 |15  |04.23 |	    |           |**ANOVA** 							    |       |	|
