@@ -55,4 +55,4 @@
 |    |04.27 | 	    |           |**Logistic Regr. & Classification**	|       |	|
 |16  |04.30 |	    |           |Solution Techniques and SGD			|       |	|
 |    |05.2  |	    |           |**FINAL EXAM REVIEW**					 |       |practicum due|
-|X   |05.X  |	    |           |**FINAL EXAM**							 |       ||
+|X   |05.6  |	    |           |**FINAL EXAM **							 |       ||
