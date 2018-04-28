@@ -73,11 +73,11 @@ Very frequently in class we will explore computational problems directly in Jupy
 
 The overall grades will be based on a cumulative score computed from 
 
-* The homework (35% of the grade)
-* The score from class participation (5% of the grade)
-* The midterm exam (20% of the grade)
-* The final exam (25% of the grade)
-* The practicum (15% of the grade)
+* The homework (35% of the grade)         .9* .35   = .315
+* The score from class participation (5% of the grade)   .8 *.05  =  .04
+* The midterm exam (20% of the grade)    .6 * .2  = .12        .5*.2=.1
+* The final exam (25% of the grade)           .8 * .25  = .2       .7*.25=.175
+* The practicum (15% of the grade)           .85 * .15  =.1275
 
 Unless adjustments are necessary, letter grades will be assigned using the standard grading scale: 
 
